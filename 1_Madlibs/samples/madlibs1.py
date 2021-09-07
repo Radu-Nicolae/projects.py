@@ -5,6 +5,7 @@ def madlib():
     adverb = input("Adverb: ").lower()
     number = input("Number: ").lower()
 
+    print('')
     print(
         f"Today, my fabulous camp group went to a(n) {adj1} amusement park. It was a \n"
         f"fun park with lots of cool {noun1} and enjoyable play structures. When we got \n"

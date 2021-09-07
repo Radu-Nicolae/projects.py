@@ -7,6 +7,7 @@ def madlib():
     noun2 = input("Noun: ").lower()
     noun3 = input("Noun: ").lower()
 
+    print('')
     print(f"Today I went to the zoo. I saw a(n) {adj1} {noun1}\n"
           f"jumping up and down its tree. He {verb1} {adverb1} through the\n"
           f"large tunnel that led to its {adjective2} {noun2}. I got some peanuts\n"

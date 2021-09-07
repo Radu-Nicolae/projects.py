@@ -5,6 +5,7 @@ def madlib():
     famous_person = input("Famous person: ").lower()
 
     string = f"Python is so {adj}. I am very happy when I {verb1} beacause I" \
-             f"love programming. \nBesides, I usually {verb2} when I think about {famous_person}"
+             f"love programming. \nBesides, I usually {verb2} when I think about {famous_person}."
 
+    print('')
     print(string)
