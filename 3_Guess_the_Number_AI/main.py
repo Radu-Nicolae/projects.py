@@ -12,7 +12,11 @@ def computer_guess():
     feedback = ''
 
     while feedback != 'c' and feedback != 'C':
-        guess = random.randint(min_number, max_number)
+        if min_number != max_number:
+            guess = random.randint(min_number, max_number)
+        else:
+            guess = min_number # or max_number - does not matter at all
+
         feedback = input(f"I guessed the number {guess}. Is it too high (H), too low (L) or correct (C)? Your answer: ")
         if feedback == 'h' or feedback == 'H':
             max_number = guess - 1
