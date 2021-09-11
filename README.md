@@ -1,6 +1,6 @@
 ## projects.py
 
-This repo contains a few python personal projects which were built to exercise and consolidate my Python skills and algorithmically thinking. They were developed by difficulty - the first project was the easiest and the last one the most difficult.
+This repo contains a few python personal projects which were built to exercise and consolidate my Python skills and algorithmically thinking. The projects are sorted by difficulty - the first project is the easiest and the last the most difficult.
 
 The project ideas were inspired from freeCodeCamp, as well as some solutions to a few encountered difficulties.
 
