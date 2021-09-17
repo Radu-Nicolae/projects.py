@@ -4,7 +4,6 @@ This repo contains a few personal projects which were built to exercise and cons
 
 The project ideas were inspired from freeCodeCamp, as well as some solutions to a few encountered difficulties.
 
-<br>
 
 ### Projects
 ##### [1. Madlibs](https://github.com/Radu-Nicolae/projects.py/tree/main/1_Madlibs)
